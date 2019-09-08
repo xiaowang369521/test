@@ -1,0 +1,4 @@
+git add . 回车（表示添加到本地库）
+git commit -m "新增了一个文件123.txt" 回车（提交更新信息）
+git push origin master 回车（推送到远程库的master分支）
+经过这三个命令 文件就上传到仓库中了。
