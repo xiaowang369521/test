@@ -1,8 +1,0 @@
-设置邮箱和用户名
-比如邮箱是haha.163.com
-名字是haha
-
-命令如下：（注意要加空格）
-
-git config --global user.email "haha@163.com"
-git config --global user.name "haha"
